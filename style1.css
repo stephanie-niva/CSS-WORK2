@@ -1,0 +1,23 @@
+#form{
+    padding: 10px;
+    margin: 0 auto;
+    border: solid 3px;
+    height: 650px;
+    width: 30%;
+    
+
+}
+.input{
+    padding: 14px 12px;
+    border-radius: 5px;
+    border: solid 2px;
+    width: 80%;
+
+}
+.button{
+ padding: 10px 20px;
+ box-shadow: inset;
+ color: black;
+ background-color: aqua;
+ width: 500px;
+}
